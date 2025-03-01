@@ -1,7 +1,31 @@
-# 💫 About Me:
-🛠 I’m currently working on: Exploring projects in MERN stack and enhancing my Java skills.<br>🤝 I’m looking to collaborate on: Open-source MERN stack projects and Java-based applications.<br>📌 I’m looking for help with: Best practices in Spring Boot and optimizing DSA in Java.<br>🌱 I’m currently learning: Spring Boot (Java) and improving my Data Structures & Algorithms.<br>💬 Ask me about: Java, MERN stack, and beginner-friendly open-source contributions.<br>⚡ Fun fact: I love solving coding challenges and experimenting with new frameworks!<br>🎯 Looking for: A summer internship to apply my skills and gain real-world experience.
+# 💫 About Me  
+🚀 **Aspiring Full-Stack Developer | Java Enthusiast | Open-Source Contributor**  
 
+🌱 **Exploring:** MERN Stack Projects  
+🔹 **Learning:** Spring Boot (Java) & DSA  
+🎯 **Seeking:** Summer Internship 2025  
 
+---
+
+### 🛠 What I'm Working On  
+🔹 Building projects using **MERN stack** & improving **Java skills**  
+🔹 Enhancing backend expertise with **Spring Boot & REST APIs**  
+
+### 🤝 Looking to Collaborate On  
+💻 **Open-source projects** in MERN stack & Java applications  
+📌 Backend development & API integrations  
+
+### 🔍 Looking for Help With  
+🛠 Best practices in **Spring Boot** & backend optimizations  
+⚡ Advanced **DSA techniques in Java**  
+
+### 💬 Ask Me About  
+🔥 **Java**, **MERN Stack**, and **beginner-friendly open-source contributions**  
+
+### ⚡ Fun Fact  
+🎯 I love **solving coding challenges** & experimenting with **new frameworks**!  
+
+---
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@Aman07122003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aman-pratap-singh-5349531aa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@amanpra99478508) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samanpratap219@gmail.com) 
 
