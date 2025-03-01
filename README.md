@@ -45,15 +45,6 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
       </a>
     </td>
 
-    <!-- Postman Student API Badge -->
-    <td>
-      <a href="https://github.com/Aman07122003">
-        <img src="12.jpeg" alt="Postman Student API Badge" width="250" style="border-radius: 10px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 
 
@@ -65,12 +56,15 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
    <a href="https://bsky.app/profile/@Aman07122003">
       <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
    </a>
+   
    <a href="https://linkedin.com/in/aman-pratap-singh-5349531aa">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
    </a>
+   
    <a href="https://x.com/@amanpra99478508">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X">
    </a>
+   
    <a href="mailto:samanpratap219@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
    </a>
