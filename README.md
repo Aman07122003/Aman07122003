@@ -4,20 +4,32 @@
 
 🌱 Exploring MERN stack projects | 🚀 Learning Spring Boot in Java | 🎯 Seeking Summer Internship 2025
 
- <p align="left"> 
-   <a href="https://github.com/Aman07122003?tab=followers">
-      <img alt="followers" title="Follow me on Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Aman07122003?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/Aman07122003?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/Aman07122003?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
+<p align="left"> 
+   <!-- YouTube Video -->
    <a href="https://www.youtube.com/watch?v=gylwA0y7Ymg&t=1s">
       <img alt="Watch Video" title="Watch my latest video" 
          src="https://img.shields.io/badge/Watch%20My%20Latest%20Video-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
    </a>
+
+   <!-- Profile Views -->
+   <a href="https://github.com/Aman07122003">
+      <img alt="Profile Views" title="GitHub Profile Views" 
+         src="https://komarev.com/ghpvc/?username=Aman07122003&style=for-the-badge&color=blueviolet"/>
+   </a>
+
+   <!-- GitHub Followers -->
+   <a href="https://github.com/Aman07122003?tab=followers">
+      <img alt="followers" title="Follow me on Github" 
+         src="https://custom-icon-badges.demolab.com/github/followers/Aman07122003?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+
+   <!-- GitHub Stars -->
+   <a href="https://github.com/Aman07122003?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/stars/Aman07122003?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
 </p>
+
 
 
 
