@@ -14,7 +14,7 @@
    <!-- Profile Views -->
    <a href="https://github.com/Aman07122003">
       <img alt="Profile Views" title="GitHub Profile Views" 
-         src="https://komarev.com/ghpvc/?username=Aman07122003&style=for-the-badge&color=blueviolet"/>
+         src="https://komarev.com/ghpvc/?username=Aman07122003&style=for-the-badge&color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
    </a>
 
    <!-- GitHub Followers -->
