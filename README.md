@@ -61,4 +61,16 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
 ---
 [![](https://visitcount.itsvg.in/api?id=Aman07122003&icon=0&color=0)](https://visitcount.itsvg.in)
 
+##
+
+<h4 align="center">
+   Thanks for visiting :heart:
+</h4>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/workdotnisha/count.svg" />
+</p>
+
+##
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
