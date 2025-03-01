@@ -1,4 +1,4 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Aman Pratap Singh
 
 **`🚀 Aspiring Full-Stack Developer | Java Enthusiast | Open-Source Contributor`**
 
@@ -14,7 +14,7 @@
    <!-- Profile Views -->
    <a href="https://github.com/Aman07122003">
       <img alt="Profile Views" title="GitHub Profile Views" 
-         src="https://komarev.com/ghpvc/?username=Aman07122003&style=for-the-badge&color=blueviolet"/>
+         src="https://komarev.com/ghpvc/?username=Aman07122003&style=for-the-badge&color=Yellow"/>
    </a>
 
    <!-- GitHub Followers -->
