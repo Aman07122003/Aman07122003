@@ -46,7 +46,7 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
    <a href="https://bsky.app/profile/@Aman07122003" target="_blank">
       <img src="https://img.shields.io/badge/Bluesky-%230285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
    </a>
