@@ -13,7 +13,6 @@
       <img alt="total stars" title="Total stars on GitHub" 
          src="https://custom-icon-badges.demolab.com/github/stars/Aman07122003?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
-   <br><br>
    <a href="https://www.youtube.com/watch?v=gylwA0y7Ymg&t=1s">
       <img alt="Watch Video" title="Watch my latest video" 
          src="https://img.shields.io/badge/Watch%20My%20Latest%20Video-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
