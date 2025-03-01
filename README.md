@@ -2,7 +2,11 @@
 
 **`🚀 Aspiring Full-Stack Developer | Java Enthusiast | Open-Source Contributor`**
 
-🌱 Exploring MERN stack projects | 🚀 Learning Spring Boot in Java | 🎯 Seeking Summer Internship 2025
+🌱 An early morning bird who loves to code and fly 🐦💻
+
+Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Science and Engineering. I fell in love with coding when I was first introduced to it through my course. Since then, I’ve been hooked—exploring new ideas, learning daily, and solving problems with fresh approaches.
+
+Currently, I’m diving into DSA (Java) and web development, and I’m excited about the endless possibilities coding offers. 🚀💡 | 🎯 Seeking Summer Internship 2025
 
 <p align="left"> 
    <!-- YouTube Video -->
