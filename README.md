@@ -33,11 +33,27 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
 </p>
 
 
-### 📺 Featured
+### 📺 Latest YouTube Videos & 🏆 Postman Student API Badge
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Watch Now](https://ytcards.demolab.com/?id=gylwA0y7Ymg&title=Actually+coding+with+Claude+3.7+is+actually+insane%2C+actually.&lang=en&timestamp=1740593333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771 "Watch Now")](https://youtu.be/gylwA0y7Ymg)
-<!-- END YOUTUBE-CARDS -->
+<table>
+  <tr>
+    <!-- YouTube Video Card -->
+    <td>
+      <a href="https://youtu.be/gylwA0y7Ymg">
+        <img src="https://ytcards.demolab.com/?id=gylwA0y7Ymg&title=Watch+Now&lang=en&timestamp=1740593333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771" 
+             alt="Latest YouTube Video">
+      </a>
+    </td>
+
+    <!-- Postman Student API Badge -->
+    <td>
+      <a href="https://github.com/Aman07122003">
+        <img src="12.jpeg" alt="Postman Student API Badge" width="250" style="border-radius: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
