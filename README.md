@@ -68,7 +68,7 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
 </h4>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/workdotnisha/count.svg" />
+  <img src="https://profile-counter.glitch.me/Aman07122003/count.svg" />
 </p>
 
 ##
