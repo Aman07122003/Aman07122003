@@ -26,7 +26,7 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
 ### 📺 Latest YouTube Video
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Watch Now](https://ytcards.demolab.com/?id=gylwA0y7Ymg&title=HexaBruteForce+||+Smart+India+Hackthone+-+2024&lang=en&timestamp=1740593333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=771 "Watch Now")](https://youtu.be/gylwA0y7Ymg)
+[![Watch Now](https://ytcards.demolab.com/?id=gylwA0y7Ymg&title=HexaBruteForce+||+Smart+India+Hackthone+-+2024&lang=en&timestamp=1740593333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=771 "Watch Now")](https://youtu.be/gylwA0y7Ymg)
 <!-- END YOUTUBE-CARDS -->
 
 
