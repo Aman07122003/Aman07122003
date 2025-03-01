@@ -6,6 +6,7 @@ Hi, I’m Aman Pratap Singh, a third-year UG student majoring in Computer Scienc
 
 🎯 **`Seeking Summer Internship 2025`**
 
+<br/>
 <p align="left"> 
    <!-- YouTube Video -->
    <a href="https://www.youtube.com/watch?v=gylwA0y7Ymg&t=1s">
