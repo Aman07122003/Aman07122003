@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm Aman Pratap Singh </h1>
+<h1 align="left"> Hey <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm Aman Pratap Singh </h1>
 
 **`🚀 Aspiring Full-Stack Developer | Java Enthusiast | Open-Source Contributor`**
 
