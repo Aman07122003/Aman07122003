@@ -1,8 +1,8 @@
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-# 👋 Hello, I'm Ruilizhen HU! You can also call me Ray! 🚀
+# 👋 Hello, I'm Aman Pratap Singh! You can also call me Aman! 🚀
 
-A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhen. I have a keen interest in machine learning, algorithms, full-stack development, and cryptography. Actively involved in various projects and research initiatives in these domains. Always eager to learn and explore more, staying updated with the latest trends and advancements in technology.
+A Computer Science undergraduate at Chaudhary Charan Singh University Meerut, Uttar-Pradesh. I have a keen interest in machine learning, algorithms, full-stack development, and cryptography. Actively involved in various projects and research initiatives in these domains. Always eager to learn and explore more, staying updated with the latest trends and advancements in technology.
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&theme=dark" />
