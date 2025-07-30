@@ -150,7 +150,7 @@ A Computer Science undergraduate at Chaudhary Charan Singh University Meerut, Ut
 
 ## 📊 Statistics
 <div style="width:100%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman07122003&show_icons=true&theme=radical" />
 </div>
 
 ---
