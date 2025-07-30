@@ -153,25 +153,6 @@ A Computer Science undergraduate at Chaudhary Charan Singh University Meerut, Ut
   <img src="https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical" />
 </div>
 
-## 🏆 Achievements
-<table style="width:100%" align="center">
-  <tr>
-    <th>Event</th>
-    <th>Year</th>
-    <th>Award</th>
-  </tr>
-  <tr>
-    <td>National Olympiad in Informatics</td>
-    <td>2021</td>
-    <td>🥉 Bronze Medalist</td>
-  </tr>
-  <tr>
-    <td>China Collegiate Programming Contest 2022 Weihai Regional</td>
-    <td>2022</td>
-    <td>🥈 Silver Medalist</td>
-  </tr>
-</table>
-
 ---
 
 > *Last Updated: [Februaray, 14th, 2025]*
