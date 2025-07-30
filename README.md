@@ -154,8 +154,3 @@ A Computer Science undergraduate at Chaudhary Charan Singh University Meerut, Ut
 </div>
 
 ---
-
-> *Last Updated: [Februaray, 14th, 2025]*
-<!---
-HuRuilizhen/HuRuilizhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
