@@ -104,7 +104,7 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
   <tr>
     <td>Website</td>
     <td>
-      <a href="https://huruilizhen.github.io">
+      <a href="https://github.com/Aman07122003">
         <img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
       </a>
     </td>
@@ -112,7 +112,7 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
   <tr>
     <td>LinkedIn</td>
     <td>
-      <a href="https://www.linkedin.com/in/ruilizhen-hu">
+      <a href="www.linkedin.com/in/aman-pratap-singh-5349531aa">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
@@ -120,7 +120,7 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
   <tr>
     <td>GitHub</td>
     <td>
-      <a href="https://github.com/HuRuilizhen">
+      <a href="https://github.com/Aman07122003">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
@@ -128,11 +128,8 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
   <tr>
     <td>Email</td>
     <td>
-      <a href="mailto:huruilizhen@gmail.com">
+      <a href="mailto:samanpratap219@gmail.com">
         <img src="https://img.shields.io/badge/Email-Personal-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
-      </a>
-      <a href="mailto:ruilizhenhu@link.cuhk.edu.cn">
-        <img src="https://img.shields.io/badge/Email-Academic-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Academic Email" />
       </a>
     </td>
   </tr>
