@@ -48,14 +48,14 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
       <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=rust" />
       <img src="https://img.shields.io/badge/-Go-5757A8?style=flat-square&logo=go" />
     </td>
   </tr>
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs" />
+      <img src="https://img.shields.io/badge/-React.js-000000?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
       <img src="https://img.shields.io/badge/-Flask-ff0000?style=flat-square&logo=flask" />
       <img src="https://img.shields.io/badge/-Django-006400?style=flat-square&logo=django" />
     </td>
