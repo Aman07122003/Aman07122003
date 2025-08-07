@@ -92,13 +92,6 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
       <img src="https://img.shields.io/badge/-Postman-%238D6748?style=flat-square&logo=postman&logoColor=orange" />
     </td>
   </tr>
-  <tr>
-    <th>Machine Learning</th>
-    <td>
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    </td>
-  </tr>
 </table>
 
 ## 📞 Get in Touch
