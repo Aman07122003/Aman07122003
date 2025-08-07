@@ -84,7 +84,6 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
       <img src="https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" />
-
     </td>
   </tr>
   <tr>
