@@ -54,7 +54,7 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/-React.js-000000?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=000000" />
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
       <img src="https://img.shields.io/badge/-Flask-ff0000?style=flat-square&logo=flask" />
       <img src="https://img.shields.io/badge/-Django-006400?style=flat-square&logo=django" />
