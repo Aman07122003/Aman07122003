@@ -13,13 +13,11 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
   <tr>
     <th>Institution</th>
     <th>Program</th>
-    <th>CGPA</th>
     <th>Duration</th>
   </tr>
   <tr>
     <td>Chaudhary Charan Singh University, Meerut</td>
     <td>Bachelor of Technology in Computer Science</td>
-    <td>9.11</td>
     <td>Oct 2022 – June 2026</td>
   </tr>
 </table>
