@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Aman Pratap Singh! You can also call me Aman! 🚀
 
-A Computer Science undergraduate at Chaudhary Charan Singh University Meerut, Uttar-Pradesh. I have a keen interest in machine learning, algorithms, full-stack development, and cryptography. Actively involved in various projects and research initiatives in these domains. Always eager to learn and explore more, staying updated with the latest trends and advancements in technology.
+I'm a passionate Computer Science student from Meerut, currently pursuing my B.Tech at Chaudhary Charan Singh University (CGPA: 9.11). I specialize in Full Stack Web Development, with hands-on experience in building scalable, responsive, and user-friendly applications using React, Node.js, MongoDB, and more. I'm also exploring DevOps practices and AWS Cloud Services to expand my backend and deployment capabilities.
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&theme=dark" />
@@ -13,19 +13,17 @@ A Computer Science undergraduate at Chaudhary Charan Singh University Meerut, Ut
   <tr>
     <th>Institution</th>
     <th>Program</th>
+    <th>CGPA</th>
     <th>Duration</th>
   </tr>
   <tr>
-    <td>The Chinese University of Hong Kong, Shenzhen</td>
-    <td>Bachelor of Science in Computer Science & Technology</td>
-    <td>2022 - 2026</td>
-  </tr>
-  <tr>
-    <td>Nanyang Technological University, Singapore</td>
-    <td>Exchange Program in Computer Science</td>
-    <td>Spring 2025</td>
+    <td>Chaudhary Charan Singh University, Meerut</td>
+    <td>Bachelor of Technology in Computer Science</td>
+    <td>9.11</td>
+    <td>Oct 2022 – June 2026</td>
   </tr>
 </table>
+
 
 ## 💻 Skills
 <table style="width:100%" align="center">
