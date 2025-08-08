@@ -138,14 +138,14 @@ I'm a passionate Computer Science student from Meerut, currently pursuing my B.T
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharyan006&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharyan006&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharyan006&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharyan006&theme=dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman07122003&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman07122003&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman07122003&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman07122003&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman07122003&theme=dark" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singharyan006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman07122003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
